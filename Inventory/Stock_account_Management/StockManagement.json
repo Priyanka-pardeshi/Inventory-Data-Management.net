@@ -1,0 +1,22 @@
+{
+  "StockOne": {
+    "Stock_name": "NIFTY50",
+    "Stock_share": 1,
+    "Share_prise": 15683.35
+  },
+  "StockTwo": {
+    "Stock_name": "NIFTYBANK",
+    "Stock_share": 1,
+    "Share_prise": 3455.800
+  },
+  "StockThree": {
+    "Stock_name": "SUZLON",
+    "Stock_share": 1,
+    "Share_prise": 7.5100
+  }
+
+  //nifty50=>share prise=15683.35
+  //niftyBank =>34558.800
+
+  //suzlon=>7.51
+}
