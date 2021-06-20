@@ -1,0 +1,18 @@
+{
+  "Rice": {
+    "name": "Basmati",
+    "weight": 1,
+    "prise": 60
+  },
+  "Pulses": {
+    "name": "Dry Beans",
+    "weight": 20,
+    "prise": 40
+  },
+  "Wheat": {
+    "name": "Emmer",
+    "weight": 50,
+    "prise": 68
+  }
+
+}
